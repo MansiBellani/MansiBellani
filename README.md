@@ -1,6 +1,6 @@
-## Hi there, Aayush this side!
+## Hi there, Mansi this side!
 
-![](https://komarev.com/ghpvc/?username=aayu5hgit&style=for-the-badge) 
+![](https://komarev.com/ghpvc/?username=MansiBellani&style=for-the-badge) 
 
  🔭 Pursuing *B.E in Computer Science*.
  
@@ -27,8 +27,6 @@
 ## CONNECT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Follow me on Twitter") [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email") [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-talreja-107896224/ "Connect via Linkedin") [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@aayu5hgit "My Replit Profile") [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aayushtalreja "Telegram")
 
-## Hacktoberfest 2023
-[![An image of @aayushtalreja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushtalreja)](https://holopin.io/@aayushtalreja)
 
 ## STATS
 
@@ -37,15 +35,15 @@
   <tr>
     <td>
     
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayu5hgit&show_icons=true&theme=radical)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MansiBellani&show_icons=true&theme=radical)
    </td>
 
   <td>  
    
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=radical)
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MansiBellani&theme=radical)
      </td>
        
 
   </table>
   
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/aayu5hgit/github-readme-stats) -->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/MansiBellani/github-readme-stats) -->
