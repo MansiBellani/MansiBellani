@@ -2,13 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=MansiBellani&style=for-the-badge) 
 
- 🔭 Pursuing *B.E in Computer Science*.
+ 🔭 Pursuing *B.E in Computer Engineering with honors in Blockchain Technology*.
  
  📚 currently learning *Data Structures and Algorithms*
 
- 🌱 Primary Language - *Java*.
+ 🌱 Primary Language - *Python*.
 
- ⭐ Full Stack Web Developer Intern at Incubrain.
    
 
 ## 🛠 &nbsp;TECH STACK
